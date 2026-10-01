@@ -1,4 +1,4 @@
-# Hi, I'm Muzammil 
+# Hi, I'm Muhammad Muzammal Hussain
 
 ### Aspiring AI Engineer | Python | Machine Learning | Deep Learning | Generative AI
 
